@@ -1,0 +1,326 @@
+/* General */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  text-rendering: geometricPrecision;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+html,
+body {
+  /* height: 100%; */
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-primary);
+
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-secondary);
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.86);
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 3.2rem;
+  margin-bottom: 1.6rem;
+}
+
+h4,
+h5,
+h6 {
+  margin-top: 1.6rem;
+  margin-bottom: 1.6rem;
+}
+
+h1 {
+  font-size: 3.2rem;
+}
+
+h2 {
+  font-size: 2.8rem;
+}
+
+h3 {
+  font-size: 2.4rem;
+}
+
+h4 {
+  font-size: 2rem;
+}
+
+h5 {
+  font-size: 1.6rem;
+}
+
+h6 {
+  font-size: 1.4rem;
+}
+
+p {
+  margin: 0 0 1.6rem;
+}
+
+strong {
+  font-weight: 500;
+}
+
+small {
+  font-size: 1.2rem;
+}
+
+blockquote {
+  padding: 1.6rem 3.2rem;
+  margin: 0 0 3.2rem;
+
+  border-left: 8px solid #eee;
+
+  font-size: 1.6rem;
+  font-style: italic;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  text-indent: 1px;
+  text-overflow: '';
+  cursor: pointer;
+}
+
+select option {
+  background: var(--background);
+  color: "#fff"
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+a {
+  text-decoration: none;
+}
+
+figure {
+  margin: 0;
+}
+
+img {
+  vertical-align: middle;
+}
+
+code,
+pre {
+  font-family: "Fira Code", source-code-pro, Menlo, Monaco, Consolas,
+    "Courier New", monospace;
+  width: 100%;
+}
+
+code {
+  color: var(--emerald);
+}
+
+.branded-overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: var(--background);
+  top: 0;
+  left: 0;
+  z-index: 9;
+}
+
+.branded-overlay img {
+  height: 80px;
+  width: 80px;
+  position: sticky;
+  margin: auto;
+  top: 45%;
+  border-radius: 100px;
+  animation: pulse 1.25s infinite;
+  display: block;
+
+  /* make it scale up and down */
+  animation: pulse 1.25s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+
+  50% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+.page {
+  width: 100%;
+  max-width: 880px;
+  margin: auto;
+  padding: 0px 20px;
+}
+
+.page-cities {
+  padding-top: 40px;
+  padding-bottom: 100px;
+}
+
+.page-city {
+  padding-top: 40px;
+  padding-bottom: 100px;
+}
+
+.nav {
+  background-color: var(--background);
+  padding: 20px 30px;
+}
+
+.logo img {
+  height: 32px;
+  width: 32px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.logo span {
+  font-size: 14px;
+  font-weight: 600;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 7px;
+  border-radius: 3px;
+  margin: 0 7px;
+  color: var(--white);
+}
+
+.logo span:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.grid-cards {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.card {
+  width: 270px;
+  height: 185px;
+  margin: 5px;
+  display: block;
+  border-radius: 6px;
+  position: relative;
+  overflow: hidden;
+  background-color: black;
+}
+
+.card img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  top: 0;
+  left: 0;
+  opacity: 0.65;
+}
+
+.card .city-from {
+  position: absolute;
+  color: #fff;
+  z-index: 1;
+  left: 0;
+  right: 0;
+  margin: auto;
+  text-align: center;
+  display: table;
+  bottom: 0;
+  top: 0;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.card .city-to {
+  position: absolute;
+  color: #fff;
+  z-index: 1;
+  left: 10px;
+  top: 5px;
+  font-size: 26px;
+  font-weight: 600;
+}
+
+.card .country-name {
+  margin: 30px 0 10px 6px;
+}
+
+.card .country-to {
+  position: absolute;
+  color: #fff;
+  z-index: 1;
+  left: 12px;
+  top: 40px;
+  font-size: 16px;
+  opacity: 0.75;
+}
+
+.card .bottom-left {
+  color: #fff;
+  position: absolute;
+  z-index: 1;
+  bottom: 10px;
+  left: 10px;
+}
+
+.card .bottom-right {
+  color: #fff;
+  position: absolute;
+  z-index: 1;
+  bottom: 10px;
+  right: 10px;
+  font-weight: bold;
+  font-size: 26px;
+}

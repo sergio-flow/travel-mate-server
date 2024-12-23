@@ -1,0 +1,21 @@
+:root {
+  --orange: #ff4f40;
+  --indigo: #635dff;
+  --white: #fff;
+  --light-aluminium: #eaecee;
+  --aluminium: #bdc4cf;
+  --dark-aluminium: #2a2e35;
+  --black: #000000;
+  --yellow: #ebca40;
+  --mandarine: #ff7f38;
+  --pink: #ff44dd;
+  --blue: #3885ff;
+  --aqua: #3ec6eb;
+  --emerald: #7ed233;
+  --background: #1E2328;
+  --primary: #006d23;
+  --secondary: #cdf3c6;
+  --font-primary: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  --font-secondary: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  --font-mono: "Fira Code", monospace;
+}

@@ -1,0 +1,495 @@
+| Albania                     | Tirana                 |
+| Armenia                     | Yerevan                |
+| Austria                     | Graz                   |
+| Austria                     | Innsbruck              |
+| Austria                     | Klagenfurt             |
+| Austria                     | Salzburg               |
+| Austria                     | Vienna                 |
+| Azerbaijan                  | Baku                   |
+| Belgium                     | Brussels               |
+| Bosnia & Herzegovina        | Sarajevo               |
+| Bulgaria                    | Burgas                 |
+| Bulgaria                    | Sofia                  |
+| Bulgaria                    | Varna                  |
+| Croatia                     | Dubrovnik              |
+| Croatia                     | Pula                   |
+| Croatia                     | Rijeka                 |
+| Croatia                     | Split                  |
+| Croatia                     | Zadar                  |
+| Croatia                     | Zagreb                 |
+| Cyprus                      | Larnaca                |
+| Cyprus                      | Paphos                 |
+| Czechia                     | Prague                 |
+| Denmark                     | Aalborg                |
+| Denmark                     | Aarhus                 |
+| Denmark                     | Billund                |
+| Denmark                     | Copenhagen             |
+| Estonia                     | Tallinn                |
+| Faroe Islands               | Sørvágur               |
+| Finland                     | Helsinki               |
+| Finland                     | Kittilä                |
+| Finland                     | Oulu                   |
+| Finland                     | Rovaniemi              |
+| Finland                     | Tampere                |
+| Finland                     | Turku                  |
+| Finland                     | Vaasa                  |
+| France                      | Ajaccio                |
+| France                      | Bastia                 |
+| France                      | Biarritz               |
+| France                      | Bordeaux               |
+| France                      | Brest                  |
+| France                      | Figari                 |
+| France                      | Lille                  |
+| France                      | Lyon                   |
+| France                      | Marseille              |
+| France                      | Montpellier            |
+| France                      | Nantes                 |
+| France                      | Nice                   |
+| France                      | Paris                  |
+| France                      | Rennes                 |
+| France                      | Strasbourg             |
+| France                      | Toulon                 |
+| France                      | Toulouse               |
+| Georgia                     | Kutaisi                |
+| Georgia                     | Tbilisi                |
+| Germany                     | Berlin                 |
+| Germany                     | Bremen                 |
+| Germany                     | Cologne                |
+| Germany                     | Dortmund               |
+| Germany                     | Dresden                |
+| Germany                     | Düsseldorf             |
+| Germany                     | Frankfurt              |
+| Germany                     | Friedrichshafen        |
+| Germany                     | Hamburg                |
+| Germany                     | Hanover                |
+| Germany                     | Karlsruhe              |
+| Germany                     | Leipzig                |
+| Germany                     | Memmingen              |
+| Germany                     | Munich                 |
+| Germany                     | Münster                |
+| Germany                     | Nuremberg              |
+| Germany                     | Paderborn              |
+| Germany                     | Stuttgart              |
+| Greece                      | Athens                 |
+| Greece                      | Cephalonia             |
+| Greece                      | Chania                 |
+| Greece                      | Corfu                  |
+| Greece                      | Heraklion              |
+| Greece                      | Kos                    |
+| Greece                      | Mykonos                |
+| Greece                      | Mytilene               |
+| Greece                      | Rhodes                 |
+| Greece                      | Samos                  |
+| Greece                      | Santorini              |
+| Greece                      | Skiathos               |
+| Greece                      | Thessaloniki           |
+| Greece                      | Zakynthos Island       |
+| Hungary                     | Budapest               |
+| Hungary                     | Debrecen               |
+| Iceland                     | Reykjavik              |
+| Ireland                     | Cork                   |
+| Ireland                     | Dublin                 |
+| Ireland                     | Knock, County Mayo     |
+| Ireland                     | Shannon, County Clare  |
+| Italy                       | Alghero                |
+| Italy                       | Ancona                 |
+| Italy                       | Bari                   |
+| Italy                       | Bologna                |
+| Italy                       | Brindisi               |
+| Italy                       | Cagliari               |
+| Italy                       | Catania                |
+| Italy                       | Comiso                 |
+| Italy                       | Florence               |
+| Italy                       | Genoa                  |
+| Italy                       | Lamezia Terme          |
+| Italy                       | Milan                  |
+| Italy                       | Naples                 |
+| Italy                       | Olbia                  |
+| Italy                       | Palermo                |
+| Italy                       | Perugia                |
+| Italy                       | Pescara                |
+| Italy                       | Pisa                   |
+| Italy                       | Rome                   |
+| Italy                       | Trapani                |
+| Italy                       | Trieste                |
+| Italy                       | Turin                  |
+| Italy                       | Venice                 |
+| Italy                       | Verona                 |
+| Jersey                      | Saint Helier           |
+| Kazakhstan                  | Almaty                 |
+| Kazakhstan                  | Astana                 |
+| Kosovo                      | Pristina               |
+| Latvia                      | Riga                   |
+| Lithuania                   | Kaunas                 |
+| Lithuania                   | Vilnius                |
+| Luxembourg                  | Luxembourg             |
+| Malta                       | Malta                  |
+| Moldova                     | Chișinău               |
+| Montenegro                  | Podgorica              |
+| Montenegro                  | Tivat                  |
+| Netherlands                 | Amsterdam              |
+| Netherlands                 | Eindhoven              |
+| Netherlands                 | Rotterdam              |
+| Norway                      | Bergen                 |
+| Norway                      | Bodø                   |
+| Norway                      | Haugesund              |
+| Norway                      | Kristiansand           |
+| Norway                      | Oslo                   |
+| Norway                      | Stavanger              |
+| Norway                      | Tromsø                 |
+| Norway                      | Trondheim              |
+| Norway                      | Ålesund                |
+| Poland                      | Gdańsk                 |
+| Poland                      | Katowice               |
+| Poland                      | Kraków                 |
+| Poland                      | Poznań                 |
+| Poland                      | Szczecin               |
+| Poland                      | Warsaw                 |
+| Poland                      | Wrocław                |
+| Portugal                    | Faro                   |
+| Portugal                    | Funchal                |
+| Portugal                    | Lisbon                 |
+| Portugal                    | Ponta Delgada          |
+| Portugal                    | Porto                  |
+| Republic of North Macedonia | Skopje                 |
+| Romania                     | Bucharest              |
+| Romania                     | Cluj-Napoca            |
+| Romania                     | Iași                   |
+| Romania                     | Sibiu                  |
+| Romania                     | Timișoara              |
+| Serbia                      | Belgrade               |
+| Serbia                      | Niš                    |
+| Slovakia                    | Bratislava             |
+| Slovakia                    | Košice                 |
+| Slovenia                    | Ljubljana              |
+| Spain                       | Alicante               |
+| Spain                       | Almería                |
+| Spain                       | Asturias               |
+| Spain                       | Barcelona              |
+| Spain                       | Bilbao                 |
+| Spain                       | Fuerteventura          |
+| Spain                       | Girona                 |
+| Spain                       | Granada                |
+| Spain                       | Ibiza                  |
+| Spain                       | Jerez de la Frontera   |
+| Spain                       | Lanzarote              |
+| Spain                       | Las Palmas             |
+| Spain                       | Madrid                 |
+| Spain                       | Menorca                |
+| Spain                       | Murcia                 |
+| Spain                       | Málaga                 |
+| Spain                       | Palma, Majorca         |
+| Spain                       | Santa Cruz de La Palma |
+| Spain                       | Santander              |
+| Spain                       | Santiago de Compostela |
+| Spain                       | Seville                |
+| Spain                       | Tenerife               |
+| Spain                       | Valencia               |
+| Spain                       | Zaragoza               |
+| Sweden                      | Gothenburg             |
+| Sweden                      | Malmö                  |
+| Sweden                      | Stockholm              |
+| Switzerland                 | Basel                  |
+| Switzerland                 | Geneva                 |
+| Switzerland                 | Zürich                 |
+| Turkey                      | Adana                  |
+| Turkey                      | Ankara                 |
+| Turkey                      | Antalya                |
+| Turkey                      | Bodrum                 |
+| Turkey                      | Dalaman                |
+| Turkey                      | Istanbul               |
+| Turkey                      | Trabzon                |
+| Turkey                      | İzmir                  |
+| United Kingdom              | Aberdeen               |
+| United Kingdom              | Belfast                |
+| United Kingdom              | Birmingham             |
+| United Kingdom              | Bristol                |
+| United Kingdom              | Cardiff                |
+| United Kingdom              | Edinburgh              |
+| United Kingdom              | Exeter                 |
+| United Kingdom              | Glasgow                |
+| United Kingdom              | Leeds                  |
+| United Kingdom              | Liverpool              |
+| United Kingdom              | London                 |
+| United Kingdom              | Manchester             |
+| United Kingdom              | Newcastle upon Tyne    |
+| United Kingdom              | Nottingham             |
+| United Kingdom              | Southampton            |
+| Albania                     | Tirana                     |
+| Algeria                     | Algiers                    |
+| Algeria                     | Constantine                |
+| Algeria                     | Oran                       |
+| Andorra                     | Andorra la Vella           |
+| Armenia                     | Yerevan                    |
+| Austria                     | Innsbruck                  |
+| Austria                     | Salzburg                   |
+| Austria                     | Vienna                     |
+| Azerbaijan                  | Baku                       |
+| Belgium                     | Brussels                   |
+| Bosnia & Herzegovina        | Banja Luka                 |
+| Bosnia & Herzegovina        | Sarajevo                   |
+| Bulgaria                    | Burgas                     |
+| Bulgaria                    | Sofia                      |
+| Bulgaria                    | Varna                      |
+| Croatia                     | Dubrovnik                  |
+| Croatia                     | Pula                       |
+| Croatia                     | Split                      |
+| Croatia                     | Zadar                      |
+| Croatia                     | Zagreb                     |
+| Cyprus                      | Larnaca                    |
+| Czechia                     | Prague                     |
+| Denmark                     | Billund                    |
+| Denmark                     | Bornholm                   |
+| Denmark                     | Copenhagen                 |
+| Egypt                       | Cairo                      |
+| Egypt                       | Hurghada                   |
+| Estonia                     | Tallinn                    |
+| Finland                     | Helsinki                   |
+| Finland                     | Rovaniemi                  |
+| Finland                     | Turku                      |
+| France                      | Ajaccio                    |
+| France                      | Bastia                     |
+| France                      | Biarritz                   |
+| France                      | Bordeaux                   |
+| France                      | Brest                      |
+| France                      | Caen                       |
+| France                      | Lille                      |
+| France                      | Lyon                       |
+| France                      | Marseille                  |
+| France                      | Montpellier                |
+| France                      | Nantes                     |
+| France                      | Nice                       |
+| France                      | Paris                      |
+| France                      | Rennes                     |
+| France                      | Strasbourg                 |
+| France                      | Toulon                     |
+| France                      | Toulouse                   |
+| Georgia                     | Kutaisi                    |
+| Georgia                     | Tbilisi                    |
+| Germany                     | Berlin                     |
+| Germany                     | Bremen                     |
+| Germany                     | Cologne                    |
+| Germany                     | Dortmund                   |
+| Germany                     | Düsseldorf                 |
+| Germany                     | Frankfurt                  |
+| Germany                     | Hamburg                    |
+| Germany                     | Hanover                    |
+| Germany                     | Karlsruhe                  |
+| Germany                     | Memmingen                  |
+| Germany                     | Munich                     |
+| Germany                     | Nuremberg                  |
+| Germany                     | Saarbrücken                |
+| Germany                     | Stuttgart                  |
+| Greece                      | Athens                     |
+| Greece                      | Cephalonia                 |
+| Greece                      | Chania                     |
+| Greece                      | Chios                      |
+| Greece                      | Corfu                      |
+| Greece                      | Heraklion                  |
+| Greece                      | Kastellorizo               |
+| Greece                      | Kos                        |
+| Greece                      | Mykonos                    |
+| Greece                      | Mytilene                   |
+| Greece                      | Rhodes                     |
+| Greece                      | Samos                      |
+| Greece                      | Santorini                  |
+| Greece                      | Skiathos                   |
+| Greece                      | Thessaloniki               |
+| Greece                      | Zakynthos Island           |
+| Guernsey                    | Saint Peter Port           |
+| Hungary                     | Budapest                   |
+| Iceland                     | Reykjavik                  |
+| Iran                        | Tehran                     |
+| Iraq                        | Erbil                      |
+| Ireland                     | Cork                       |
+| Ireland                     | Dublin                     |
+| Isle of Man                 | Douglas                    |
+| Israel                      | Tel Aviv                   |
+| Italy                       | Alghero                    |
+| Italy                       | Ancona                     |
+| Italy                       | Bari                       |
+| Italy                       | Bologna                    |
+| Italy                       | Brindisi                   |
+| Italy                       | Cagliari                   |
+| Italy                       | Catania                    |
+| Italy                       | Comiso                     |
+| Italy                       | Florence                   |
+| Italy                       | Genoa                      |
+| Italy                       | Lamezia Terme              |
+| Italy                       | Lampedusa                  |
+| Italy                       | Milan                      |
+| Italy                       | Naples                     |
+| Italy                       | Olbia                      |
+| Italy                       | Palermo                    |
+| Italy                       | Pantelleria                |
+| Italy                       | Perugia                    |
+| Italy                       | Pescara                    |
+| Italy                       | Pisa                       |
+| Italy                       | Reggio Calabria            |
+| Italy                       | Rome                       |
+| Italy                       | Trieste                    |
+| Italy                       | Turin                      |
+| Italy                       | Venice                     |
+| Italy                       | Verona                     |
+| Jersey                      | Saint Helier               |
+| Jordan                      | Amman                      |
+| Kazakhstan                  | Aktau                      |
+| Kazakhstan                  | Aktobe                     |
+| Kazakhstan                  | Almaty                     |
+| Kazakhstan                  | Astana                     |
+| Kazakhstan                  | Atyrau                     |
+| Kazakhstan                  | Karaganda                  |
+| Kazakhstan                  | Kostanay                   |
+| Kazakhstan                  | Kyzylorda                  |
+| Kazakhstan                  | Oskemen                    |
+| Kazakhstan                  | Pavlodar                   |
+| Kazakhstan                  | Petropavl                  |
+| Kazakhstan                  | Semey                      |
+| Kazakhstan                  | Shymkent                   |
+| Kosovo                      | Pristina                   |
+| Kuwait                      | Kuwait City                |
+| Kyrgyzstan                  | Bishkek                    |
+| Latvia                      | Riga                       |
+| Lebanon                     | Beirut                     |
+| Lithuania                   | Kaunas                     |
+| Lithuania                   | Vilnius                    |
+| Luxembourg                  | Luxembourg                 |
+| Malta                       | Malta                      |
+| Moldova                     | Chișinău                   |
+| Montenegro                  | Podgorica                  |
+| Montenegro                  | Tivat                      |
+| Morocco                     | Casablanca                 |
+| Morocco                     | Fes                        |
+| Morocco                     | Marrakesh                  |
+| Morocco                     | Nador                      |
+| Morocco                     | Oujda                      |
+| Morocco                     | Tangier                    |
+| Netherlands                 | Amsterdam                  |
+| Netherlands                 | Eindhoven                  |
+| Netherlands                 | Rotterdam                  |
+| Norway                      | Alta                       |
+| Norway                      | Andenes                    |
+| Norway                      | Bergen                     |
+| Norway                      | Bodø                       |
+| Norway                      | Hammerfest                 |
+| Norway                      | Haugesund                  |
+| Norway                      | Kirkenes                   |
+| Norway                      | Kristiansand               |
+| Norway                      | Leknes                     |
+| Norway                      | Mo i Rana                  |
+| Norway                      | Narvik                     |
+| Norway                      | Oslo                       |
+| Norway                      | Stavanger                  |
+| Norway                      | Stokmarknes                |
+| Norway                      | Svolvær                    |
+| Norway                      | Tromsø                     |
+| Norway                      | Trondheim                  |
+| Norway                      | Ålesund                    |
+| Poland                      | Gdańsk                     |
+| Poland                      | Katowice                   |
+| Poland                      | Kraków                     |
+| Poland                      | Lublin                     |
+| Poland                      | Poznań                     |
+| Poland                      | Warsaw                     |
+| Poland                      | Wrocław                    |
+| Portugal                    | Faro                       |
+| Portugal                    | Funchal                    |
+| Portugal                    | Horta, Azores              |
+| Portugal                    | Lisbon                     |
+| Portugal                    | Pico Island                |
+| Portugal                    | Ponta Delgada              |
+| Portugal                    | Porto                      |
+| Portugal                    | Santa Maria Island         |
+| Portugal                    | Terceira Island            |
+| Portugal                    | Vila Baleira               |
+| Republic of North Macedonia | Skopje                     |
+| Romania                     | Brasov                     |
+| Romania                     | Bucharest                  |
+| Romania                     | Cluj-Napoca                |
+| Romania                     | Iași                       |
+| Romania                     | Sibiu                      |
+| Romania                     | Timișoara                  |
+| Serbia                      | Belgrade                   |
+| Serbia                      | Niš                        |
+| Slovakia                    | Bratislava                 |
+| Slovenia                    | Ljubljana                  |
+| Spain                       | A Coruña                   |
+| Spain                       | Alicante                   |
+| Spain                       | Almería                    |
+| Spain                       | Asturias                   |
+| Spain                       | Barcelona                  |
+| Spain                       | Bilbao                     |
+| Spain                       | Fuerteventura              |
+| Spain                       | Granada                    |
+| Spain                       | Ibiza                      |
+| Spain                       | Jerez de la Frontera       |
+| Spain                       | Lanzarote                  |
+| Spain                       | Las Palmas                 |
+| Spain                       | Madrid                     |
+| Spain                       | Melilla                    |
+| Spain                       | Menorca                    |
+| Spain                       | Málaga                     |
+| Spain                       | Palma, Majorca             |
+| Spain                       | San Sebastián de La Gomera |
+| Spain                       | Santa Cruz de La Palma     |
+| Spain                       | Santiago de Compostela     |
+| Spain                       | Seville                    |
+| Spain                       | Tenerife                   |
+| Spain                       | Valencia                   |
+| Spain                       | Valverde                   |
+| Spain                       | Vigo                       |
+| Spain                       | Zaragoza                   |
+| Svalbard & Jan Mayen        | Longyearbyen               |
+| Sweden                      | Gothenburg                 |
+| Sweden                      | Kiruna                     |
+| Sweden                      | Luleå                      |
+| Sweden                      | Malmö                      |
+| Sweden                      | Stockholm                  |
+| Sweden                      | Umeå                       |
+| Switzerland                 | Basel                      |
+| Switzerland                 | Geneva                     |
+| Switzerland                 | Zürich                     |
+| Tunisia                     | Djerba                     |
+| Tunisia                     | Monastir                   |
+| Tunisia                     | Tunis                      |
+| Turkey                      | Adana                      |
+| Turkey                      | Ankara                     |
+| Turkey                      | Antalya                    |
+| Turkey                      | Bodrum                     |
+| Turkey                      | Dalaman                    |
+| Turkey                      | Diyarbakır                 |
+| Turkey                      | Erzurum                    |
+| Turkey                      | Gaziantep                  |
+| Turkey                      | Giresun                    |
+| Turkey                      | Istanbul                   |
+| Turkey                      | Kars                       |
+| Turkey                      | Kayseri                    |
+| Turkey                      | Konya                      |
+| Turkey                      | Mardin                     |
+| Turkey                      | Nevşehir                   |
+| Turkey                      | Rize                       |
+| Turkey                      | Samsun                     |
+| Turkey                      | Trabzon                    |
+| Turkey                      | Van                        |
+| Turkey                      | İzmir                      |
+| Turkey                      | Şanlıurfa                  |
+| United Kingdom              | Aberdeen                   |
+| United Kingdom              | Belfast                    |
+| United Kingdom              | Birmingham                 |
+| United Kingdom              | Bristol                    |
+| United Kingdom              | Cardiff                    |
+| United Kingdom              | Edinburgh                  |
+| United Kingdom              | Exeter                     |
+| United Kingdom              | Glasgow                    |
+| United Kingdom              | Inverness                  |
+| United Kingdom              | Leeds                      |
+| United Kingdom              | Liverpool                  |
+| United Kingdom              | London                     |
+| United Kingdom              | Manchester                 |
+| United Kingdom              | Newcastle upon Tyne        |
+| United Kingdom              | Newquay                    |
+| United Kingdom              | Nottingham                 |
+| United Kingdom              | Southampton                |
+| United Kingdom              | Wick                       |
+| Unknown Region              | Northern Cyprus            |
+| Uzbekistan                  | Tashkent                   |

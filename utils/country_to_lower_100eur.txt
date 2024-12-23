@@ -1,0 +1,207 @@
+| country_to                  | flight1_city_to            | flight1_fly_to | record_count |
+| --------------------------- | -------------------------- | -------------- | ------------ |
+| Turkey                      | Istanbul                   | SAW            | 17204        |
+| Turkey                      | Istanbul                   | IST            | 10197        |
+| Turkey                      | Ankara                     | ESB            | 5425         |
+| Spain                       | Madrid                     | MAD            | 5170         |
+| Spain                       | Barcelona                  | BCN            | 4507         |
+| Turkey                      | Antalya                    | AYT            | 3203         |
+| Spain                       | Palma, Majorca             | PMI            | 3013         |
+| Turkey                      | İzmir                      | ADB            | 2574         |
+| United Kingdom              | London                     | LGW            | 1723         |
+| United Kingdom              | London                     | LTN            | 1463         |
+| Portugal                    | Lisbon                     | LIS            | 1402         |
+| Italy                       | Milan                      | MXP            | 1267         |
+| Turkey                      | Kayseri                    | ASR            | 930          |
+| Spain                       | Ibiza                      | IBZ            | 902          |
+| United Kingdom              | Birmingham                 | BHX            | 897          |
+| Greece                      | Athens                     | ATH            | 897          |
+| Portugal                    | Porto                      | OPO            | 849          |
+| United Kingdom              | Manchester                 | MAN            | 829          |
+| Italy                       | Rome                       | FCO            | 812          |
+| Poland                      | Warsaw                     | WAW            | 704          |
+| Albania                     | Tirana                     | TIA            | 661          |
+| United Kingdom              | Belfast                    | BHD            | 651          |
+| Turkey                      | Adana                      | ADA            | 632          |
+| United Kingdom              | Belfast                    | BFS            | 614          |
+| Spain                       | Tenerife                   | TFN            | 588          |
+| Spain                       | Málaga                     | AGP            | 447          |
+| Norway                      | Stavanger                  | SVG            | 436          |
+| Greece                      | Thessaloniki               | SKG            | 426          |
+| Sweden                      | Stockholm                  | ARN            | 423          |
+| Turkey                      | Dalaman                    | DLM            | 404          |
+| United Kingdom              | London                     | STN            | 400          |
+| Switzerland                 | Geneva                     | GVA            | 394          |
+| Norway                      | Oslo                       | OSL            | 388          |
+| Kazakhstan                  | Astana                     | NQZ            | 378          |
+| Italy                       | Catania                    | CTA            | 376          |
+| Ireland                     | Dublin                     | DUB            | 357          |
+| Turkey                      | Bodrum                     | BJV            | 330          |
+| Italy                       | Milan                      | LIN            | 320          |
+| Italy                       | Milan                      | BGY            | 286          |
+| Spain                       | Bilbao                     | BIO            | 280          |
+| United Kingdom              | Bristol                    | BRS            | 269          |
+| Spain                       | Menorca                    | MAH            | 258          |
+| Spain                       | Las Palmas                 | LPA            | 248          |
+| France                      | Nice                       | NCE            | 238          |
+| Turkey                      | Samsun                     | SZF            | 237          |
+| United Kingdom              | Edinburgh                  | EDI            | 232          |
+| United Kingdom              | London                     | LHR            | 223          |
+| Poland                      | Gdańsk                     | GDN            | 221          |
+| Italy                       | Bologna                    | BLQ            | 219          |
+| Kazakhstan                  | Shymkent                   | CIT            | 214          |
+| France                      | Lyon                       | LYS            | 206          |
+| Norway                      | Bergen                     | BGO            | 201          |
+| Spain                       | Valencia                   | VLC            | 196          |
+| Greece                      | Heraklion                  | HER            | 192          |
+| Italy                       | Palermo                    | PMO            | 187          |
+| Finland                     | Helsinki                   | HEL            | 155          |
+| Kazakhstan                  | Almaty                     | ALA            | 151          |
+| Spain                       | Seville                    | SVQ            | 147          |
+| Spain                       | Alicante                   | ALC            | 144          |
+| Poland                      | Kraków                     | KRK            | 136          |
+| Poland                      | Wrocław                    | WRO            | 136          |
+| Portugal                    | Funchal                    | FNC            | 130          |
+| Spain                       | Tenerife                   | TFS            | 127          |
+| Turkey                      | Trabzon                    | TZX            | 126          |
+| Denmark                     | Copenhagen                 | CPH            | 113          |
+| Italy                       | Bari                       | BRI            | 112          |
+| Romania                     | Bucharest                  | OTP            | 107          |
+| Italy                       | Pisa                       | PSA            | 106          |
+| France                      | Nantes                     | NTE            | 105          |
+| Italy                       | Venice                     | VCE            | 99           |
+| Italy                       | Olbia                      | OLB            | 98           |
+| Malta                       | Malta                      | MLA            | 95           |
+| United Kingdom              | London                     | SEN            | 94           |
+| Hungary                     | Budapest                   | BUD            | 94           |
+| Italy                       | Venice                     | TSF            | 91           |
+| France                      | Paris                      | ORY            | 91           |
+| Germany                     | Berlin                     | BER            | 90           |
+| Turkey                      | Gaziantep                  | GZT            | 90           |
+| Spain                       | Santa Cruz de La Palma     | SPC            | 88           |
+| France                      | Paris                      | CDG            | 77           |
+| Spain                       | Fuerteventura              | FUE            | 75           |
+| Cyprus                      | Larnaca                    | LCA            | 73           |
+| Romania                     | Cluj-Napoca                | CLJ            | 72           |
+| Italy                       | Naples                     | NAP            | 65           |
+| Sweden                      | Stockholm                  | BMA            | 62           |
+| Belgium                     | Brussels                   | CRL            | 62           |
+| Unknown Region              | Northern Cyprus            | ECN            | 62           |
+| France                      | Bordeaux                   | BOD            | 62           |
+| Switzerland                 | Basel                      | BSL            | 57           |
+| Portugal                    | Ponta Delgada              | PDL            | 57           |
+| Italy                       | Turin                      | TRN            | 56           |
+| United Kingdom              | Glasgow                    | GLA            | 55           |
+| Italy                       | Cagliari                   | CAG            | 54           |
+| Turkey                      | Diyarbakır                 | DIY            | 52           |
+| Latvia                      | Riga                       | RIX            | 48           |
+| Spain                       | Lanzarote                  | ACE            | 47           |
+| France                      | Toulouse                   | TLS            | 47           |
+| Germany                     | Dortmund                   | DTM            | 46           |
+| United Kingdom              | Liverpool                  | LPL            | 43           |
+| Poland                      | Katowice                   | KTW            | 42           |
+| Spain                       | Santiago de Compostela     | SCQ            | 41           |
+| United Kingdom              | Nottingham                 | EMA            | 39           |
+| Lithuania                   | Vilnius                    | VNO            | 38           |
+| Norway                      | Oslo                       | TRF            | 37           |
+| Italy                       | Pantelleria                | PNL            | 36           |
+| Czechia                     | Prague                     | PRG            | 36           |
+| Bulgaria                    | Sofia                      | SOF            | 34           |
+| Germany                     | Memmingen                  | FMM            | 32           |
+| Romania                     | Iași                       | IAS            | 31           |
+| Turkey                      | Nevşehir                   | NAV            | 30           |
+| Greece                      | Chania                     | CHQ            | 24           |
+| Turkey                      | Van                        | VAN            | 24           |
+| Netherlands                 | Eindhoven                  | EIN            | 23           |
+| United Kingdom              | Newcastle upon Tyne        | NCL            | 21           |
+| France                      | Marseille                  | MRS            | 21           |
+| Portugal                    | Faro                       | FAO            | 21           |
+| Turkey                      | Şanlıurfa                  | GNY            | 21           |
+| Italy                       | Ancona                     | AOI            | 20           |
+| Netherlands                 | Amsterdam                  | AMS            | 20           |
+| France                      | Lille                      | LIL            | 19           |
+| Estonia                     | Tallinn                    | TLL            | 19           |
+| Greece                      | Rhodes                     | RHO            | 17           |
+| Germany                     | Hamburg                    | HAM            | 17           |
+| Serbia                      | Belgrade                   | BEG            | 17           |
+| Italy                       | Verona                     | VRN            | 16           |
+| Italy                       | Pescara                    | PSR            | 16           |
+| Greece                      | Kos                        | KGS            | 16           |
+| Spain                       | San Sebastián de La Gomera | GMZ            | 16           |
+| Greece                      | Santorini                  | JTR            | 15           |
+| United Kingdom              | Southampton                | SOU            | 14           |
+| Spain                       | Valverde                   | VDE            | 14           |
+| Kazakhstan                  | Karaganda                  | KGF            | 14           |
+| Belgium                     | Brussels                   | BRU            | 13           |
+| Armenia                     | Yerevan                    | EVN            | 13           |
+| Kosovo                      | Pristina                   | PRN            | 13           |
+| Italy                       | Rome                       | CIA            | 13           |
+| Norway                      | Trondheim                  | TRD            | 13           |
+| Turkey                      | Rize                       | RZV            | 13           |
+| Turkey                      | Giresun                    | OGU            | 12           |
+| Jersey                      | Saint Helier               | JER            | 11           |
+| Austria                     | Vienna                     | VIE            | 11           |
+| Greece                      | Kastellorizo               | KZS            | 10           |
+| Georgia                     | Kutaisi                    | KUT            | 10           |
+| Portugal                    | Terceira Island            | TER            | 10           |
+| Sweden                      | Stockholm                  | NYO            | 10           |
+| Slovakia                    | Bratislava                 | BTS            | 9            |
+| Greece                      | Mykonos                    | JMK            | 9            |
+| France                      | Paris                      | BVA            | 9            |
+| Greece                      | Corfu                      | CFU            | 9            |
+| Spain                       | Asturias                   | OVD            | 8            |
+| Morocco                     | Tangier                    | TNG            | 8            |
+| Romania                     | Sibiu                      | SBZ            | 8            |
+| Isle of Man                 | Douglas                    | IOM            | 7            |
+| Republic of North Macedonia | Skopje                     | SKP            | 7            |
+| Norway                      | Ålesund                    | AES            | 7            |
+| Finland                     | Turku                      | TKU            | 7            |
+| Sweden                      | Gothenburg                 | GOT            | 7            |
+| United Kingdom              | London                     | LCY            | 6            |
+| Algeria                     | Algiers                    | ALG            | 6            |
+| United Kingdom              | Leeds                      | LBA            | 6            |
+| Greece                      | Samos                      | SMI            | 5            |
+| Italy                       | Lamezia Terme              | SUF            | 5            |
+| Luxembourg                  | Luxembourg                 | LUX            | 5            |
+| Croatia                     | Pula                       | PUY            | 5            |
+| Germany                     | Munich                     | MUC            | 4            |
+| Sweden                      | Umeå                       | UME            | 4            |
+| Serbia                      | Niš                        | INI            | 4            |
+| Poland                      | Poznań                     | POZ            | 4            |
+| Norway                      | Kirkenes                   | KKN            | 4            |
+| Turkey                      | Mardin                     | MQM            | 4            |
+| France                      | Strasbourg                 | SXB            | 4            |
+| Kazakhstan                  | Semey                      | PLX            | 4            |
+| Turkey                      | Konya                      | KYA            | 4            |
+| United Kingdom              | Inverness                  | INV            | 3            |
+| Norway                      | Haugesund                  | HAU            | 3            |
+| Romania                     | Brasov                     | GHV            | 3            |
+| Switzerland                 | Basel                      | MLH            | 3            |
+| Lebanon                     | Beirut                     | BEY            | 3            |
+| Austria                     | Salzburg                   | SZG            | 3            |
+| Germany                     | Düsseldorf                 | DUS            | 2            |
+| Lithuania                   | Kaunas                     | KUN            | 2            |
+| Denmark                     | Billund                    | BLL            | 2            |
+| Norway                      | Andenes                    | ANX            | 2            |
+| Poland                      | Lublin                     | LUZ            | 2            |
+| Norway                      | Tromsø                     | TOS            | 2            |
+| Netherlands                 | Rotterdam                  | RTM            | 2            |
+| Croatia                     | Zagreb                     | ZAG            | 2            |
+| Bosnia & Herzegovina        | Sarajevo                   | SJJ            | 2            |
+| Norway                      | Leknes                     | LKN            | 1            |
+| Kazakhstan                  | Kyzylorda                  | KZO            | 1            |
+| Kazakhstan                  | Oskemen                    | UKK            | 1            |
+| Switzerland                 | Zürich                     | ZRH            | 1            |
+| Turkey                      | Erzurum                    | ERZ            | 1            |
+| Italy                       | Genoa                      | GOA            | 1            |
+| Germany                     | Hanover                    | HAJ            | 1            |
+| Spain                       | Jerez de la Frontera       | XRY            | 1            |
+| United Kingdom              | Exeter                     | EXT            | 1            |
+| Spain                       | A Coruña                   | LCG            | 1            |
+| Italy                       | Comiso                     | CIY            | 1            |
+| Germany                     | Bremen                     | BRE            | 1            |
+| Norway                      | Svolvær                    | SVJ            | 1            |
+| Spain                       | Almería                    | LEI            | 1            |
+| Germany                     | Frankfurt                  | HHN            | 1            |
+| Italy                       | Brindisi                   | BDS            | 1            |
+| Morocco                     | Fes                        | FEZ            | 1            |
